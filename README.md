@@ -1,7 +1,7 @@
 # Data Visualization Dashboard
 
 ## Overview
-This is a **Data Visualization Dashboard** built using **HTML, CSS, and JavaScript**. It provides interactive and visually appealing charts, graphs, and tables to help users analyze data effectively.
+This is a **Data Visualization Dashboard** built using **HTML**. It provides interactive and visually appealing charts, graphs, and tables to help users analyze data effectively.
 
 ## Features
 - 📊 **Interactive Charts & Graphs**
